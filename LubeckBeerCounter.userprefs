@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Droid\LubeckBeerCounter.Droid.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LubeckBeerCounter\LubeckBeerCard.cs">
+    <Files>
+      <File FileName="LubeckBeerCounter\LubeckBeerCard.cs" Line="133" Column="13" />
+      <File FileName="LubeckBeerCounter\Beer.cs" Line="45" Column="61" />
+      <File FileName="LubeckBeerCounter\PaymentPage.cs" Line="41" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

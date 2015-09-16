@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LubeckBeerCounter", "LubeckBeerCounter\LubeckBeerCounter.csproj", "{A9DEE8E9-C021-456F-B0EC-9B3AF5110763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LubeckBeerCounter.Droid", "Droid\LubeckBeerCounter.Droid.csproj", "{5235C545-EC17-46F8-8083-E2B90397CA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LubeckBeerCounter.UITests", "UITests\LubeckBeerCounter.UITests.csproj", "{164F41AA-47E5-4A6E-AB97-A814C4E14EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164F41AA-47E5-4A6E-AB97-A814C4E14EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164F41AA-47E5-4A6E-AB97-A814C4E14EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164F41AA-47E5-4A6E-AB97-A814C4E14EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164F41AA-47E5-4A6E-AB97-A814C4E14EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5235C545-EC17-46F8-8083-E2B90397CA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5235C545-EC17-46F8-8083-E2B90397CA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5235C545-EC17-46F8-8083-E2B90397CA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5235C545-EC17-46F8-8083-E2B90397CA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DEE8E9-C021-456F-B0EC-9B3AF5110763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DEE8E9-C021-456F-B0EC-9B3AF5110763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DEE8E9-C021-456F-B0EC-9B3AF5110763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DEE8E9-C021-456F-B0EC-9B3AF5110763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
